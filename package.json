@@ -10,8 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest",
-    "deploy": "vite build && gh-pages -d dist --dotfiles"
+    "test": "vitest"
   },
   "dependencies": {
     "react": "^19.1.0",
