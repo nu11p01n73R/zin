@@ -10,8 +10,8 @@ Make simple Dutch flashcard sentences that use **only** the words in `words.csv`
 ## 1. Make the allowed-word set
 
 1. Read `words.csv` with a real CSV parser (values can contain quotes and commas).
-   - The header is `want,because`. Column 1 is **Dutch**. Column 2 is **English**.
-   - Count the data rows (not the header). This is `wordCount`.
+   - There is no header row. Column 1 is **Dutch**. Column 2 is **English**.
+   - Count all rows. This is `wordCount`.
 2. For each Dutch value:
    1. Decode HTML entities (`&amp;` → `&`). Lowercase it.
    2. Split it into tokens on spaces, commas and `&`.
@@ -24,31 +24,13 @@ Known special cases:
 - `a.u.b.` becomes the token `aub`.
 - `frietje met` gives `frietje` and `met`. So `met` is allowed.
 - `"de, het snoep"` gives `de`, `het`, `snoep`. `snoep` takes `de` or `het`.
-- `ik ben` and `ik heet` give `ik`, `ben`, `heet`. See step 2 for the subjects of these forms.
-- `eten & drinken` gives `eten` and `drinken`. These are also plural verb forms.
+- `ik ben` and `ik heet` give `ik`, `ben`, `heet`.
+- `eten & drinken` gives `eten` and `drinken`. These are also verb forms.
 - Some words have two rows (`ze` = she / they, `zij` = she / they, `morgen` = tomorrow / morning). Both meanings are allowed.
 
-## 2. Find the grammar limits
+## 2. Find the verb forms
 
-The word list grows. Do this step again on each run.
-
-1. Find all verb forms in the allowed set.
-2. Find which subjects each form works with.
-
-At October 2026 the verb forms are:
-
-| Form | Subjects |
-|---|---|
-| `ben` | `ik`. Also `jij` / `je` when the verb comes first: `Ben jij blij?`, `Waar ben je?` |
-| `heet` | all singular subjects: `ik`, `jij`, `je`, `u`, `hij`, `zij` (she), a single noun: `Hoe heet de dokter?` |
-| `zijn` | `wij`, `we`, `zij` / `ze` (they), `jullie`, two nouns joined with `en`, `dit` / `dat` + plural: `Dat zijn de dokter en de leraar.` |
-| `roken` | the same plural subjects as `zijn` |
-| `eten`, `drinken` | the same plural subjects as `zijn`. From the entry `eten & drinken`. |
-
-- `is`, `bent`, `rookt`, `heten`, `eet` and `drinkt` are **not** in the list. Do not use `hij`, `zij` (she), `u`, a single noun, or `jij` before the verb, as the subject of `zijn`, `roken`, `eten` or `drinken`.
-- Adjectives: use them after the verb (`Wij zijn blij.`). Before a noun, only with `een` + a `het` word (`een mooi huis`), because inflected forms (`mooie`) are not in the list.
-- Avoid `toen` (past). Avoid plural nouns (`vissers`): they are new words.
-- When new verbs or forms appear, use them, and use them with the correct subjects.
+Find all verb forms in the allowed set. Use each form only with the subjects that are correct in Dutch.
 
 ## 3. Write the cards
 
@@ -89,8 +71,6 @@ Bad:
 
 - `De man is oud.` — `is` is not in the list.
 - `Wij zijn oude.` — `oude` is not in the list.
-- `Hij roken.` — wrong verb form.
-- `Jij ben blij.` — `jij` before the verb needs `bent`. Only `Ben jij ...?` is correct.
 
 ## 4. Write the file
 
@@ -99,7 +79,7 @@ Write `public/sentences.json`:
 ```json
 {
   "generatedAt": "<ISO 8601 UTC time now, e.g. 2026-10-20T21:30:00Z>",
-  "wordCount": 140,
+  "wordCount": 185,
   "cards": [
     { "id": "c001", "nl": "Wij zijn hier.", "en": "We are here.", "tip": "wij zijn = we are.", "newWords": [] }
   ]
@@ -118,7 +98,7 @@ Check each card. Fix or replace the cards that fail. Check again. Stop after 5 r
 3. `nl` is unique in the pool (compare lowercase, without punctuation).
 4. `id` is unique.
 5. The pool has 150–200 cards.
-6. `wordCount` is the same as the number of data rows.
+6. `wordCount` is the same as the number of rows in `words.csv`.
 7. All fields are present and have the correct type.
 
 You can write a short script to do this check. Put it in the scratchpad, not in the repository.
@@ -136,4 +116,4 @@ Print:
 - Number of cards.
 - Number of cards with new words.
 - The new words.
-- New verb forms found in step 2, if there are any.
+- The verb forms found in step 2.

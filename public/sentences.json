@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-20T22:56:37Z",
-  "wordCount": 140,
+  "generatedAt": "2026-10-25T22:47:33Z",
+  "wordCount": 185,
   "cards": [
     {
       "id": "c001",
-      "nl": "Ik ben hier.",
-      "en": "I am here.",
-      "tip": "ik ben = I am.",
+      "nl": "Ik ben twintig.",
+      "en": "I am twenty.",
+      "tip": "Use 'ik ben' + a number to give your age.",
       "newWords": []
     },
     {
       "id": "c002",
-      "nl": "Ik ben daar.",
-      "en": "I am there.",
+      "nl": "Ik ben de leraar.",
+      "en": "I am the teacher.",
       "tip": "",
       "newWords": []
     },
@@ -25,1380 +25,1268 @@
     },
     {
       "id": "c004",
-      "nl": "Ik ben niet blij.",
-      "en": "I am not happy.",
-      "tip": "niet comes after the verb.",
+      "nl": "Ben jij de dokter?",
+      "en": "Are you the doctor?",
+      "tip": "In a question, the verb comes first: Ben jij ...?",
       "newWords": []
     },
     {
       "id": "c005",
-      "nl": "Ik ben oud.",
-      "en": "I am old.",
-      "tip": "",
+      "nl": "Ben je blij?",
+      "en": "Are you happy?",
+      "tip": "'je' is the short, unstressed form of 'jij'.",
       "newWords": []
     },
     {
       "id": "c006",
-      "nl": "Ik ben jong.",
-      "en": "I am young.",
+      "nl": "Ben jij oud?",
+      "en": "Are you old?",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c007",
-      "nl": "Ik ben de leraar.",
-      "en": "I am the teacher.",
-      "tip": "",
+      "nl": "Hoe heet de dokter?",
+      "en": "What is the doctor called?",
+      "tip": "Heet is for one person. Hoe heet ...? asks for a name.",
       "newWords": []
     },
     {
       "id": "c008",
-      "nl": "Ik ben de dokter.",
-      "en": "I am the doctor.",
+      "nl": "Hoe heet je?",
+      "en": "What is your name?",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c009",
-      "nl": "Ik ben de bakker.",
-      "en": "I am the baker.",
-      "tip": "",
+      "nl": "Hoe heet u?",
+      "en": "What is your name? (formal)",
+      "tip": "'u' is the polite form of 'you'.",
       "newWords": []
     },
     {
       "id": "c010",
-      "nl": "Ik ben de slager.",
-      "en": "I am the butcher.",
+      "nl": "Hoe heet de leraar?",
+      "en": "What is the teacher called?",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c011",
-      "nl": "Ik ben de ober.",
-      "en": "I am the waiter.",
+      "nl": "Hoe heet de winkel?",
+      "en": "What is the shop called?",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c012",
-      "nl": "Ik ben de baas.",
-      "en": "I am the boss.",
-      "tip": "",
+      "nl": "Wij zijn blij.",
+      "en": "We are happy.",
+      "tip": "Zijn is used for wij, jullie and zij (they).",
       "newWords": []
     },
     {
       "id": "c013",
-      "nl": "Ik ben de boer.",
-      "en": "I am the farmer.",
+      "nl": "Zij zijn jong.",
+      "en": "They are young.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c014",
-      "nl": "Ik ben de kapper.",
-      "en": "I am the hairdresser.",
-      "tip": "",
+      "nl": "Jullie zijn leuk.",
+      "en": "You (all) are nice.",
+      "tip": "'jullie' means 'you' for two or more people.",
       "newWords": []
     },
     {
       "id": "c015",
-      "nl": "Ik ben een student.",
-      "en": "I am a student.",
-      "tip": "een = a.",
+      "nl": "We zijn oud.",
+      "en": "We are old.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c016",
-      "nl": "Ik ben een leerling.",
-      "en": "I am a pupil.",
+      "nl": "Ze zijn slecht.",
+      "en": "They are bad.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c017",
-      "nl": "Ik ben de advocaat.",
-      "en": "I am the lawyer.",
-      "tip": "",
+      "nl": "De man en de vrouw zijn oud.",
+      "en": "The man and the woman are old.",
+      "tip": "Two nouns joined by en take zijn.",
       "newWords": []
     },
     {
       "id": "c018",
-      "nl": "Ik ben een visser.",
-      "en": "I am a fisherman.",
-      "tip": "een = a. It does not change for de or het words.",
+      "nl": "De jongen en het meisje zijn jong.",
+      "en": "The boy and the girl are young.",
+      "tip": "'het meisje' is a het-word.",
       "newWords": []
     },
     {
       "id": "c019",
-      "nl": "Ik ben de verkoper.",
-      "en": "I am the salesman.",
+      "nl": "De dokter en de leraar zijn blij.",
+      "en": "The doctor and the teacher are happy.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c020",
-      "nl": "Ik ben niet de directeur.",
-      "en": "I am not the director.",
-      "tip": "niet before 'de directeur' stresses: not the director.",
+      "nl": "De bakker en de slager zijn goed.",
+      "en": "The baker and the butcher are good.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c021",
-      "nl": "Ik ben wel blij.",
-      "en": "I really am happy.",
-      "tip": "wel confirms: I AM happy.",
+      "nl": "De kapper en de ober zijn leuk.",
+      "en": "The hairdresser and the waiter are nice.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c022",
-      "nl": "Ik ben de vertegenwoordiger.",
-      "en": "I am the representative.",
+      "nl": "De boer en de visser zijn oud.",
+      "en": "The farmer and the fisherman are old.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c023",
-      "nl": "Ik ben een aardappeleter.",
-      "en": "I am a potato-eater.",
+      "nl": "De agent en de politieman zijn blij.",
+      "en": "The police officer and the policeman are happy.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c024",
-      "nl": "Goedemorgen, ik ben de agent.",
-      "en": "Good morning, I am the police officer.",
-      "tip": "goedemorgen = good morning.",
+      "nl": "De student en de leerling zijn jong.",
+      "en": "The student and the pupil are young.",
+      "tip": "Zijn stays the same after two nouns.",
       "newWords": []
     },
     {
       "id": "c025",
-      "nl": "Hallo, ik ben de premier.",
-      "en": "Hello, I am the prime minister.",
-      "tip": "hallo = hello. hoi = hi.",
+      "nl": "De directeur en de baas zijn goed.",
+      "en": "The director and the boss are good.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c026",
-      "nl": "Goedendag, ik ben de directeur.",
-      "en": "Good day, I am the director.",
-      "tip": "goedendag is a formal greeting.",
+      "nl": "De verkoper en de boekhouder zijn leuk.",
+      "en": "The salesman and the accountant are nice.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c027",
-      "nl": "Hoi, ik ben de leerling.",
-      "en": "Hi, I am the pupil.",
+      "nl": "De advocaat en de premier zijn oud.",
+      "en": "The lawyer and the prime minister are old.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c028",
-      "nl": "Morgen ben ik hier.",
-      "en": "Tomorrow I am here.",
-      "tip": "Verb second: after 'morgen' the verb comes before the subject.",
+      "nl": "Dat zijn de dokter en de leraar.",
+      "en": "Those are the doctor and the teacher.",
+      "tip": "Use 'dit' or 'dat' + 'zijn' to point at two or more things.",
       "newWords": []
     },
     {
       "id": "c029",
-      "nl": "Misschien ben ik daar.",
-      "en": "Maybe I am there.",
-      "tip": "Verb second: after 'misschien' the verb comes next.",
-      "newWords": []
-    },
-    {
-      "id": "c030",
-      "nl": "Dan ben ik blij.",
-      "en": "Then I am happy.",
-      "tip": "Verb second: after 'dan' the verb comes next.",
-      "newWords": []
-    },
-    {
-      "id": "c031",
-      "nl": "Ja, ik ben de voetballer.",
-      "en": "Yes, I am the football player.",
+      "nl": "Dit zijn de bus en de tram.",
+      "en": "These are the bus and the tram.",
       "tip": "",
       "newWords": []
     },
     {
+      "id": "c030",
+      "nl": "Dat zijn de apotheek en de bibliotheek.",
+      "en": "Those are the pharmacy and the library.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c031",
+      "nl": "Dat zijn het station en de halte.",
+      "en": "Those are the station and the stop.",
+      "tip": "'het station' is a het-word.",
+      "newWords": []
+    },
+    {
       "id": "c032",
-      "nl": "Nee, ik ben niet de politieman.",
-      "en": "No, I am not the police officer.",
-      "tip": "nee = no. ja = yes.",
+      "nl": "Dit zijn het huis en de winkel.",
+      "en": "These are the house and the shop.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c033",
-      "nl": "Ben jij de leraar?",
-      "en": "Are you the teacher?",
-      "tip": "Yes/no questions start with the verb.",
+      "nl": "Dat zijn de trein en de boot.",
+      "en": "Those are the train and the boat.",
+      "tip": "",
       "newWords": []
     },
     {
       "id": "c034",
-      "nl": "Ben jij blij?",
-      "en": "Are you happy?",
+      "nl": "Dit zijn de school en de universiteit.",
+      "en": "These are the school and the university.",
       "tip": "",
       "newWords": []
     },
     {
       "id": "c035",
-      "nl": "Ben je oud?",
-      "en": "Are you old?",
-      "tip": "je is the short form of jij.",
+      "nl": "Wie zijn zij?",
+      "en": "Who are they?",
+      "tip": "Wie zijn ...? asks about more than one person.",
       "newWords": []
     },
     {
       "id": "c036",
-      "nl": "Ben je hier?",
-      "en": "Are you here?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c037",
-      "nl": "Waar ben je?",
-      "en": "Where are you?",
-      "tip": "Question words come first, then the verb.",
-      "newWords": []
-    },
-    {
-      "id": "c038",
-      "nl": "Hoe oud ben je?",
-      "en": "How old are you?",
-      "tip": "hoe oud = how old.",
-      "newWords": []
-    },
-    {
-      "id": "c039",
-      "nl": "Wie ben jij?",
-      "en": "Who are you?",
-      "tip": "wie = who.",
-      "newWords": []
-    },
-    {
-      "id": "c040",
-      "nl": "Ben jij de bakker?",
-      "en": "Are you the baker?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c041",
-      "nl": "Ben je de dokter?",
-      "en": "Are you the doctor?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c042",
-      "nl": "Waarom ben je hier?",
-      "en": "Why are you here?",
-      "tip": "waarom = why.",
-      "newWords": []
-    },
-    {
-      "id": "c043",
-      "nl": "Wanneer ben je daar?",
-      "en": "When are you there?",
-      "tip": "wanneer = when.",
-      "newWords": []
-    },
-    {
-      "id": "c044",
-      "nl": "Ben je morgen hier?",
-      "en": "Are you here tomorrow?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c045",
-      "nl": "Ben jij een student?",
-      "en": "Are you a student?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c046",
-      "nl": "Ben je niet blij?",
-      "en": "Aren't you happy?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c047",
-      "nl": "Ben jij de jongen?",
-      "en": "Are you the boy?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c048",
-      "nl": "Ben jij het meisje?",
-      "en": "Are you the girl?",
-      "tip": "het meisje: meisje is a het word.",
-      "newWords": []
-    },
-    {
-      "id": "c049",
-      "nl": "Hoe heet je?",
-      "en": "What is your name?",
-      "tip": "Dutch says 'How are you called?'.",
-      "newWords": []
-    },
-    {
-      "id": "c050",
-      "nl": "Hoe heet jij?",
-      "en": "What is your name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c051",
-      "nl": "Hoe heet u?",
-      "en": "What is your name?",
-      "tip": "u is the polite 'you'.",
-      "newWords": []
-    },
-    {
-      "id": "c052",
-      "nl": "Hoe heet hij?",
-      "en": "What is his name?",
-      "tip": "heet works with one person: ik, jij, u, hij, zij.",
-      "newWords": []
-    },
-    {
-      "id": "c053",
-      "nl": "Hoe heet zij?",
-      "en": "What is her name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c054",
-      "nl": "Hoe heet de dokter?",
-      "en": "What is the doctor's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c055",
-      "nl": "Hoe heet de vrouw?",
-      "en": "What is the woman's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c056",
-      "nl": "Hoe heet de man?",
-      "en": "What is the man's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c057",
-      "nl": "Hoe heet het meisje?",
-      "en": "What is the girl's name?",
-      "tip": "het meisje: meisje is a het word.",
-      "newWords": []
-    },
-    {
-      "id": "c058",
-      "nl": "Hoe heet de jongen?",
-      "en": "What is the boy's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c059",
-      "nl": "Hoe heet de leraar?",
-      "en": "What is the teacher's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c060",
-      "nl": "Hoe heet de baas?",
-      "en": "What is the boss's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c061",
-      "nl": "Hoe heet de premier?",
-      "en": "What is the prime minister's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c062",
-      "nl": "Hoe heet de haven?",
-      "en": "What is the port called?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c063",
-      "nl": "Hoe heet de straat?",
-      "en": "What is the street called?",
-      "tip": "heet also names places and things.",
-      "newWords": []
-    },
-    {
-      "id": "c064",
-      "nl": "Hoe heet de boot?",
-      "en": "What is the boat called?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c065",
-      "nl": "Hoe heet het vliegveld?",
-      "en": "What is the airport called?",
-      "tip": "het vliegveld: vliegveld is a het word.",
-      "newWords": []
-    },
-    {
-      "id": "c066",
-      "nl": "Hoe heet de halte?",
-      "en": "What is the stop called?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c067",
-      "nl": "Hoe heet de weg?",
-      "en": "What is the road called?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c068",
-      "nl": "Hoe heet de snelweg?",
-      "en": "What is the highway called?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c069",
-      "nl": "Hoe heet de kapper?",
-      "en": "What is the hairdresser's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c070",
-      "nl": "Hoe heet de boekhouder?",
-      "en": "What is the accountant's name?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c071",
-      "nl": "Wij zijn hier.",
-      "en": "We are here.",
-      "tip": "wij zijn = we are.",
-      "newWords": []
-    },
-    {
-      "id": "c072",
-      "nl": "We zijn daar.",
-      "en": "We are there.",
-      "tip": "we is the short form of wij.",
-      "newWords": []
-    },
-    {
-      "id": "c073",
-      "nl": "Wij zijn blij.",
-      "en": "We are happy.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c074",
-      "nl": "Wij zijn niet oud.",
-      "en": "We are not old.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c075",
-      "nl": "We zijn jong.",
-      "en": "We are young.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c076",
-      "nl": "Zij zijn hier.",
-      "en": "They are here.",
-      "tip": "zij zijn = they are.",
-      "newWords": []
-    },
-    {
-      "id": "c077",
-      "nl": "Ze zijn daar.",
-      "en": "They are there.",
-      "tip": "ze is the short form of zij.",
-      "newWords": []
-    },
-    {
-      "id": "c078",
-      "nl": "Ze zijn blij.",
-      "en": "They are happy.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c079",
-      "nl": "Zij zijn niet blij.",
-      "en": "They are not happy.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c080",
-      "nl": "Zij zijn oud.",
-      "en": "They are old.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c081",
-      "nl": "Jullie zijn jong.",
-      "en": "You (all) are young.",
-      "tip": "jullie = you (all).",
-      "newWords": []
-    },
-    {
-      "id": "c082",
-      "nl": "Jullie zijn hier.",
-      "en": "You (all) are here.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c083",
-      "nl": "Jullie zijn goed.",
-      "en": "You (all) are good.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c084",
-      "nl": "Jullie zijn leuk.",
-      "en": "You (all) are fun.",
-      "tip": "leuk = fun, nice.",
-      "newWords": []
-    },
-    {
-      "id": "c085",
-      "nl": "Zijn jullie blij?",
-      "en": "Are you (all) happy?",
-      "tip": "Yes/no questions start with the verb.",
-      "newWords": []
-    },
-    {
-      "id": "c086",
-      "nl": "Zijn jullie hier?",
-      "en": "Are you (all) here?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c087",
-      "nl": "Zijn zij oud?",
-      "en": "Are they old?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c088",
-      "nl": "Zijn ze daar?",
-      "en": "Are they there?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c089",
-      "nl": "Waar zijn jullie?",
-      "en": "Where are you (all)?",
-      "tip": "Question word first, then the verb, then the subject.",
-      "newWords": []
-    },
-    {
-      "id": "c090",
-      "nl": "Waar zijn ze?",
-      "en": "Where are they?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c091",
       "nl": "Wie zijn jullie?",
       "en": "Who are you (all)?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c092",
-      "nl": "Wie zijn zij?",
-      "en": "Who are they?",
+      "id": "c037",
+      "nl": "Wie ben jij?",
+      "en": "Who are you?",
+      "tip": "After a question word, the verb comes next: Wie ben jij?",
+      "newWords": []
+    },
+    {
+      "id": "c038",
+      "nl": "Wat ben jij?",
+      "en": "What are you?",
+      "tip": "Wat ben jij? asks for a job.",
+      "newWords": []
+    },
+    {
+      "id": "c039",
+      "nl": "Waar ben je?",
+      "en": "Where are you?",
+      "tip": "Question word first, then the verb: Waar ben je?",
+      "newWords": []
+    },
+    {
+      "id": "c040",
+      "nl": "Waar ben jij, hier of daar?",
+      "en": "Where are you, here or there?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c093",
-      "nl": "Hoe oud zijn jullie?",
-      "en": "How old are you (all)?",
+      "id": "c041",
+      "nl": "Waar zijn de tram en de metro?",
+      "en": "Where are the tram and the metro?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c094",
-      "nl": "Waarom zijn jullie hier?",
-      "en": "Why are you (all) here?",
+      "id": "c042",
+      "nl": "Waar zijn het ziekenhuis en het zwembad?",
+      "en": "Where are the hospital and the swimming pool?",
+      "tip": "'het ziekenhuis' and 'het zwembad' are het-words.",
+      "newWords": []
+    },
+    {
+      "id": "c043",
+      "nl": "Waarom ben jij blij?",
+      "en": "Why are you happy?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c095",
-      "nl": "Wanneer zijn jullie daar?",
-      "en": "When are you (all) there?",
+      "id": "c044",
+      "nl": "Waarom zijn wij hier?",
+      "en": "Why are we here?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c096",
-      "nl": "Ja, wij zijn blij.",
-      "en": "Yes, we are happy.",
+      "id": "c045",
+      "nl": "Wanneer zijn jullie hier?",
+      "en": "When are you (all) here?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c097",
-      "nl": "Nee, wij zijn niet blij.",
-      "en": "No, we are not happy.",
+      "id": "c046",
+      "nl": "Ja, ik ben blij.",
+      "en": "Yes, I am happy.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c098",
-      "nl": "Ja, ze zijn hier.",
-      "en": "Yes, they are here.",
+      "id": "c047",
+      "nl": "Nee, ik ben niet blij.",
+      "en": "No, I am not happy.",
+      "tip": "Niet comes after the verb and before the adjective.",
+      "newWords": []
+    },
+    {
+      "id": "c048",
+      "nl": "Nee, wij zijn niet oud.",
+      "en": "No, we are not old.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c099",
-      "nl": "Nee, zij zijn daar niet.",
-      "en": "No, they are not there.",
-      "tip": "With a place word, niet often goes at the end.",
+      "id": "c049",
+      "nl": "Ja, zij zijn wel jong.",
+      "en": "Yes, they really are young.",
+      "tip": "Wel stresses that something is true.",
       "newWords": []
     },
     {
-      "id": "c100",
-      "nl": "Wij zijn wel blij.",
-      "en": "We really are happy.",
-      "tip": "wel confirms: we ARE happy.",
+      "id": "c050",
+      "nl": "Ik ben niet de baas.",
+      "en": "I am not the boss.",
+      "tip": "Here 'niet' comes before 'de baas'.",
       "newWords": []
     },
     {
-      "id": "c101",
-      "nl": "Ze zijn wel hier.",
-      "en": "They really are here.",
+      "id": "c051",
+      "nl": "Misschien ben ik daar.",
+      "en": "Maybe I am there.",
+      "tip": "After misschien, the verb stays second: ben ik.",
+      "newWords": []
+    },
+    {
+      "id": "c052",
+      "nl": "Morgen zijn wij hier.",
+      "en": "Tomorrow we are here.",
+      "tip": "After morgen, the verb comes next.",
+      "newWords": []
+    },
+    {
+      "id": "c053",
+      "nl": "Zij zijn daar, links.",
+      "en": "They are there, on the left.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c102",
-      "nl": "Morgen zijn wij daar.",
-      "en": "Tomorrow we are there.",
-      "tip": "Verb second: after 'morgen' the verb comes before the subject.",
-      "newWords": []
-    },
-    {
-      "id": "c103",
-      "nl": "Morgen zijn ze hier.",
-      "en": "Tomorrow they are here.",
+      "id": "c054",
+      "nl": "Wij zijn hier, rechts.",
+      "en": "We are here, on the right.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c104",
-      "nl": "Misschien zijn ze daar.",
-      "en": "Maybe they are there.",
-      "tip": "Verb second: after 'misschien' the verb comes next.",
-      "newWords": []
-    },
-    {
-      "id": "c105",
-      "nl": "Misschien zijn jullie blij.",
-      "en": "Maybe you (all) are happy.",
+      "id": "c055",
+      "nl": "De bakker en de slager zijn links.",
+      "en": "The baker and the butcher are on the left.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c106",
-      "nl": "Dan zijn wij blij.",
-      "en": "Then we are happy.",
+      "id": "c056",
+      "nl": "Welke man en welke vrouw zijn oud?",
+      "en": "Which man and which woman are old?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c107",
-      "nl": "Daarom zijn wij hier.",
-      "en": "That is why we are here.",
-      "tip": "Verb second: after 'daarom' the verb comes next.",
+      "id": "c057",
+      "nl": "Goedemorgen, ik ben de leraar.",
+      "en": "Good morning, I am the teacher.",
+      "tip": "'goedemorgen' = good morning. 'morgen' alone can also mean 'tomorrow'.",
       "newWords": []
     },
     {
-      "id": "c108",
-      "nl": "Daar zijn ze!",
-      "en": "There they are!",
+      "id": "c058",
+      "nl": "Hallo, ik ben de student.",
+      "en": "Hello, I am the student.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c109",
-      "nl": "Hier zijn we.",
-      "en": "Here we are.",
-      "tip": "Verb second: after 'hier' the verb comes next.",
+      "id": "c059",
+      "nl": "Goedendag, hoe heet u?",
+      "en": "Good day, what is your name?",
+      "tip": "Use 'u' to be polite to a stranger.",
       "newWords": []
     },
     {
-      "id": "c110",
-      "nl": "Zo zijn wij.",
-      "en": "That is how we are.",
-      "tip": "Verb second: after 'zo' the verb comes next.",
-      "newWords": []
-    },
-    {
-      "id": "c111",
-      "nl": "Wij zijn blij, maar zij zijn niet blij.",
-      "en": "We are happy, but they are not happy.",
-      "tip": "After 'maar' the word order does not change.",
-      "newWords": []
-    },
-    {
-      "id": "c112",
-      "nl": "Wij zijn hier, omdat jullie hier zijn.",
-      "en": "We are here because you (all) are here.",
-      "tip": "After 'omdat' the verb goes to the end.",
-      "newWords": []
-    },
-    {
-      "id": "c113",
-      "nl": "Ze zijn blij, omdat wij daar zijn.",
-      "en": "They are happy because we are there.",
+      "id": "c060",
+      "nl": "Hoi, ben je de verkoper?",
+      "en": "Hi, are you the salesman?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c114",
-      "nl": "Wij zijn blij, terwijl zij niet blij zijn.",
-      "en": "We are happy, while they are not happy.",
-      "tip": "After 'terwijl' the verb goes to the end.",
-      "newWords": []
-    },
-    {
-      "id": "c115",
-      "nl": "Jullie zijn oud, maar wij zijn jong.",
-      "en": "You (all) are old, but we are young.",
+      "id": "c061",
+      "nl": "Goedenavond, wij zijn de ober en de kapper.",
+      "en": "Good evening, we are the waiter and the hairdresser.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c116",
-      "nl": "Zijn jullie morgen hier?",
-      "en": "Are you (all) here tomorrow?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c117",
-      "nl": "Zijn ze links of rechts?",
-      "en": "Are they on the left or on the right?",
-      "tip": "links = left. rechts = right.",
-      "newWords": []
-    },
-    {
-      "id": "c118",
-      "nl": "Ze zijn links.",
-      "en": "They are on the left.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c119",
-      "nl": "Wij zijn rechts.",
-      "en": "We are on the right.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c120",
-      "nl": "Wij zijn morgen daar.",
-      "en": "We are there tomorrow.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c121",
-      "nl": "Goedenavond, wij zijn hier.",
-      "en": "Good evening, we are here.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c122",
-      "nl": "De man en de vrouw zijn hier.",
-      "en": "The man and the woman are here.",
-      "tip": "Two subjects joined with 'en' take zijn.",
-      "newWords": []
-    },
-    {
-      "id": "c123",
-      "nl": "De jongen en het meisje zijn blij.",
-      "en": "The boy and the girl are happy.",
-      "tip": "het meisje: meisje is a het word.",
-      "newWords": []
-    },
-    {
-      "id": "c124",
-      "nl": "De dokter en de leraar zijn oud.",
-      "en": "The doctor and the teacher are old.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c125",
-      "nl": "De bakker en de slager zijn daar.",
-      "en": "The baker and the butcher are there.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c126",
-      "nl": "De bus en de tram zijn hier.",
-      "en": "The bus and the tram are here.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c127",
-      "nl": "De trein en de metro zijn goed.",
-      "en": "The train and the metro are good.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c128",
-      "nl": "De fiets en de auto zijn oud.",
-      "en": "The bike and the car are old.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c129",
-      "nl": "Het huis en de bloem zijn mooi.",
-      "en": "The house and the flower are pretty.",
-      "tip": "het huis: huis is a het word.",
-      "newWords": []
-    },
-    {
-      "id": "c130",
-      "nl": "De boer en de visser zijn jong.",
-      "en": "The farmer and the fisherman are young.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c131",
-      "nl": "De kaas en het brood zijn goed.",
-      "en": "The cheese and the bread are good.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c132",
-      "nl": "De koffie en de thee zijn slecht.",
-      "en": "The coffee and the tea are bad.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c133",
-      "nl": "Het bier en de wijn zijn daar.",
-      "en": "The beer and the wine are there.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c134",
-      "nl": "De boot en het vliegtuig zijn links.",
-      "en": "The boat and the airplane are on the left.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c135",
-      "nl": "De halte en de straat zijn rechts.",
-      "en": "The stop and the street are on the right.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c136",
-      "nl": "Dat zijn de dokter en de leraar.",
-      "en": "Those are the doctor and the teacher.",
-      "tip": "dat + two nouns takes zijn.",
-      "newWords": []
-    },
-    {
-      "id": "c137",
-      "nl": "Dit zijn de man en de vrouw.",
-      "en": "These are the man and the woman.",
-      "tip": "dit + two nouns takes zijn.",
-      "newWords": []
-    },
-    {
-      "id": "c138",
-      "nl": "Dat zijn de baas en de boekhouder.",
-      "en": "Those are the boss and the accountant.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c139",
-      "nl": "Dit zijn de agent en de advocaat.",
-      "en": "These are the police officer and the lawyer.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c140",
-      "nl": "Zijn de jongen en het meisje hier?",
-      "en": "Are the boy and the girl here?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c141",
-      "nl": "Waar zijn de bus en de tram?",
-      "en": "Where are the bus and the tram?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c142",
-      "nl": "Wie zijn de man en de vrouw?",
-      "en": "Who are the man and the woman?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c143",
-      "nl": "De ober en de kapper zijn leuk.",
-      "en": "The waiter and the hairdresser are fun.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c144",
-      "nl": "De premier en de directeur zijn niet blij.",
-      "en": "The prime minister and the director are not happy.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c145",
-      "nl": "De student en de leerling zijn jong.",
-      "en": "The student and the pupil are young.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c146",
-      "nl": "De voetballer en de politieman zijn daar.",
-      "en": "The football player and the police officer are there.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c147",
-      "nl": "De verkoper en de vertegenwoordiger zijn hier.",
-      "en": "The salesman and the representative are here.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c148",
-      "nl": "Wij eten brood.",
-      "en": "We eat bread.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c149",
+      "id": "c062",
       "nl": "Wij eten brood met kaas.",
       "en": "We eat bread with cheese.",
-      "tip": "met = with.",
+      "tip": "",
       "newWords": []
     },
     {
-      "id": "c150",
-      "nl": "Ze eten een boterham met pindakaas.",
-      "en": "They eat a slice of bread with peanut butter.",
-      "tip": "eten = to eat. zij eten = they eat.",
-      "newWords": []
-    },
-    {
-      "id": "c151",
+      "id": "c063",
       "nl": "Jullie eten een boterham met hagelslag.",
       "en": "You (all) eat a slice of bread with chocolate sprinkles.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c152",
-      "nl": "Wij eten friet.",
-      "en": "We eat French fries.",
+      "id": "c064",
+      "nl": "Eten jullie vlees?",
+      "en": "Do you (all) eat meat?",
+      "tip": "Put the verb first to ask a yes/no question.",
+      "newWords": []
+    },
+    {
+      "id": "c065",
+      "nl": "Ja, wij eten vlees.",
+      "en": "Yes, we eat meat.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c153",
-      "nl": "Wij eten een frietje met.",
-      "en": "We eat fries with mayonnaise.",
-      "tip": "'Frietje met' means fries with mayonnaise.",
-      "newWords": []
-    },
-    {
-      "id": "c154",
-      "nl": "Ze eten een frikandel.",
-      "en": "They eat a frikandel.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c155",
+      "id": "c066",
       "nl": "Wij eten een kroket.",
-      "en": "We eat a kroket.",
+      "en": "We eat a croquette.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c156",
-      "nl": "Zij eten kip.",
-      "en": "They eat chicken.",
+      "id": "c067",
+      "nl": "Zij eten een frikandel met friet.",
+      "en": "They eat a frikandel with fries.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c157",
-      "nl": "We eten vlees.",
-      "en": "We eat meat.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c158",
-      "nl": "Wij eten niet.",
-      "en": "We are not eating.",
-      "tip": "niet comes after the verb.",
-      "newWords": []
-    },
-    {
-      "id": "c159",
-      "nl": "Ze eten fruit.",
-      "en": "They eat fruit.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c160",
-      "nl": "Jullie eten groente.",
-      "en": "You (all) eat vegetables.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c161",
-      "nl": "Wij eten een aardappel.",
-      "en": "We eat a potato.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c162",
-      "nl": "Ze eten een pannenkoek.",
-      "en": "They eat a pancake.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c163",
-      "nl": "Wij eten een stroopwafel.",
-      "en": "We eat a syrup waffle.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c164",
-      "nl": "Jullie eten snoep.",
-      "en": "You (all) eat sweets.",
-      "tip": "snoep can take de or het.",
-      "newWords": []
-    },
-    {
-      "id": "c165",
-      "nl": "Ze eten drop.",
-      "en": "They eat liquorice.",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c166",
-      "nl": "Eten jullie vlees of kip?",
-      "en": "Do you (all) eat meat or chicken?",
-      "tip": "",
-      "newWords": []
-    },
-    {
-      "id": "c167",
-      "nl": "Eten jullie fruit?",
-      "en": "Do you (all) eat fruit?",
+      "id": "c068",
+      "nl": "Eten zij een stroopwafel?",
+      "en": "Are they eating a stroopwafel?",
       "tip": "Yes/no questions start with the verb.",
       "newWords": []
     },
     {
-      "id": "c168",
-      "nl": "Eten zij kaas?",
-      "en": "Do they eat cheese?",
+      "id": "c069",
+      "nl": "De man en de vrouw eten een pannenkoek.",
+      "en": "The man and the woman eat a pancake.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c169",
+      "id": "c070",
+      "nl": "Wij eten kip met friet.",
+      "en": "We eat chicken with fries.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c071",
+      "nl": "Jullie eten groente en fruit.",
+      "en": "You (all) eat vegetables and fruit.",
+      "tip": "'en' joins two words: groente en fruit.",
+      "newWords": []
+    },
+    {
+      "id": "c072",
+      "nl": "Zij eten de groente niet.",
+      "en": "They do not eat the vegetables.",
+      "tip": "'niet' comes after an object with 'de' or 'het': de groente niet.",
+      "newWords": []
+    },
+    {
+      "id": "c073",
+      "nl": "Wij eten niet.",
+      "en": "We do not eat.",
+      "tip": "Niet goes at the end when it negates the verb.",
+      "newWords": []
+    },
+    {
+      "id": "c074",
+      "nl": "Eten wij vlees of kip?",
+      "en": "Do we eat meat or chicken?",
+      "tip": "'of' means 'or'.",
+      "newWords": []
+    },
+    {
+      "id": "c075",
+      "nl": "Wij eten snoep, behalve drop.",
+      "en": "We eat sweets, except liquorice.",
+      "tip": "'behalve' means 'except'.",
+      "newWords": []
+    },
+    {
+      "id": "c076",
+      "nl": "Zij eten drop en snoep.",
+      "en": "They eat licorice and candy.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c077",
       "nl": "Wat eten jullie?",
       "en": "What do you (all) eat?",
+      "tip": "After a question word the verb stays second.",
+      "newWords": []
+    },
+    {
+      "id": "c078",
+      "nl": "Waar eten wij morgen?",
+      "en": "Where do we eat tomorrow?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c170",
-      "nl": "Wanneer eten we?",
-      "en": "When do we eat?",
+      "id": "c079",
+      "nl": "Wanneer eten zij?",
+      "en": "When do they eat?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c171",
-      "nl": "Waar eten we?",
-      "en": "Where do we eat?",
+      "id": "c080",
+      "nl": "Waarom eten jullie het vlees niet?",
+      "en": "Why do you (all) not eat the meat?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c172",
-      "nl": "Hoeveel eten zij?",
-      "en": "How much do they eat?",
+      "id": "c081",
+      "nl": "Welke kaas eten wij?",
+      "en": "Which cheese do we eat?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c173",
-      "nl": "De jongen en het meisje eten snoep.",
-      "en": "The boy and the girl eat sweets.",
+      "id": "c082",
+      "nl": "Morgen eten wij een pannenkoek.",
+      "en": "Tomorrow we eat a pancake.",
+      "tip": "After morgen the verb stays second, so the subject follows it.",
+      "newWords": []
+    },
+    {
+      "id": "c083",
+      "nl": "Hier eten wij friet.",
+      "en": "Here we eat fries.",
+      "tip": "Verb second: after 'hier' the verb comes before the subject.",
+      "newWords": []
+    },
+    {
+      "id": "c084",
+      "nl": "Daar eten zij een kroket.",
+      "en": "There they eat a croquette.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c174",
+      "id": "c085",
       "nl": "Wij drinken koffie.",
       "en": "We drink coffee.",
-      "tip": "drinken = to drink. wij drinken = we drink.",
-      "newWords": []
-    },
-    {
-      "id": "c175",
-      "nl": "Ze drinken thee.",
-      "en": "They drink tea.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c176",
-      "nl": "Jullie drinken melk.",
-      "en": "You (all) drink milk.",
+      "id": "c086",
+      "nl": "Zij drinken thee met melk.",
+      "en": "They drink tea with milk.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c177",
-      "nl": "Wij drinken water.",
-      "en": "We drink water.",
+      "id": "c087",
+      "nl": "Jullie drinken water.",
+      "en": "You (all) drink water.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c178",
-      "nl": "Zij drinken bier.",
-      "en": "They drink beer.",
+      "id": "c088",
+      "nl": "Drinken jullie bier of wijn?",
+      "en": "Do you (all) drink beer or wine?",
+      "tip": "'het bier' is a het-word, 'de wijn' is a de-word.",
+      "newWords": []
+    },
+    {
+      "id": "c089",
+      "nl": "Ja, wij drinken bier.",
+      "en": "Yes, we drink beer.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c179",
-      "nl": "We drinken wijn.",
-      "en": "We drink wine.",
+      "id": "c090",
+      "nl": "Nee, zij drinken de wijn niet.",
+      "en": "No, they do not drink the wine.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c180",
-      "nl": "Drinken jullie koffie of thee?",
-      "en": "Do you (all) drink coffee or tea?",
-      "tip": "of = or.",
+      "id": "c091",
+      "nl": "Wij drinken de koffie niet.",
+      "en": "We do not drink the coffee.",
+      "tip": "",
       "newWords": []
     },
     {
-      "id": "c181",
-      "nl": "Hoeveel koffie drinken jullie?",
-      "en": "How much coffee do you (all) drink?",
-      "tip": "hoeveel = how much.",
-      "newWords": []
-    },
-    {
-      "id": "c182",
-      "nl": "Wat drinken ze?",
+      "id": "c092",
+      "nl": "Wat drinken zij?",
       "en": "What do they drink?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c183",
-      "nl": "Welke wijn drinken jullie?",
-      "en": "Which wine do you (all) drink?",
-      "tip": "welke = which.",
-      "newWords": []
-    },
-    {
-      "id": "c184",
-      "nl": "Ze drinken wel water.",
-      "en": "They do drink water.",
-      "tip": "wel confirms: they DO drink water.",
-      "newWords": []
-    },
-    {
-      "id": "c185",
-      "nl": "Morgen drinken we bier.",
-      "en": "Tomorrow we drink beer.",
-      "tip": "Verb second: after 'morgen' the verb comes before the subject.",
-      "newWords": []
-    },
-    {
-      "id": "c186",
-      "nl": "Ze drinken koffie, maar wij drinken thee.",
-      "en": "They drink coffee, but we drink tea.",
+      "id": "c093",
+      "nl": "Waar drinken wij koffie?",
+      "en": "Where do we drink coffee?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c187",
-      "nl": "Wij roken.",
-      "en": "We smoke.",
+      "id": "c094",
+      "nl": "Wanneer drinken jullie thee?",
+      "en": "When do you (all) drink tea?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c188",
+      "id": "c095",
+      "nl": "Wij drinken koffie, maar zij drinken thee.",
+      "en": "We drink coffee, but they drink tea.",
+      "tip": "Maar keeps normal main-clause word order.",
+      "newWords": []
+    },
+    {
+      "id": "c096",
       "nl": "Wij roken niet.",
       "en": "We do not smoke.",
-      "tip": "niet comes after the verb.",
+      "tip": "'niet' comes after the verb.",
       "newWords": []
     },
     {
-      "id": "c189",
-      "nl": "Roken jullie?",
-      "en": "Do you (all) smoke?",
-      "tip": "Yes/no questions start with the verb.",
-      "newWords": []
-    },
-    {
-      "id": "c190",
-      "nl": "Ze roken niet.",
-      "en": "They do not smoke.",
+      "id": "c097",
+      "nl": "Zij roken hier niet.",
+      "en": "They do not smoke here.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c191",
+      "id": "c098",
+      "nl": "Roken jullie?",
+      "en": "Do you (all) smoke?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c099",
+      "nl": "Nee, wij roken niet.",
+      "en": "No, we do not smoke.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c100",
       "nl": "Waarom roken jullie?",
       "en": "Why do you (all) smoke?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c192",
-      "nl": "Waar roken ze?",
-      "en": "Where do they smoke?",
+      "id": "c101",
+      "nl": "Wij hebben een auto.",
+      "en": "We have a car.",
+      "tip": "'hebben' = to have, with wij, zij and jullie.",
+      "newWords": []
+    },
+    {
+      "id": "c102",
+      "nl": "Zij hebben een vraag.",
+      "en": "They have a question.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c193",
-      "nl": "De man en de vrouw roken.",
-      "en": "The man and the woman smoke.",
-      "tip": "Two subjects joined with 'en' take the plural verb.",
-      "newWords": []
-    },
-    {
-      "id": "c194",
-      "nl": "De dokter en de agent roken niet.",
-      "en": "The doctor and the police officer do not smoke.",
+      "id": "c103",
+      "nl": "Hebben jullie een fiets?",
+      "en": "Do you (all) have a bike?",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c195",
-      "nl": "Wij eten, terwijl zij roken.",
-      "en": "We eat while they smoke.",
+      "id": "c104",
+      "nl": "Wij hebben hier een winkel.",
+      "en": "We have a shop here.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c105",
+      "nl": "Zij hebben daar een huis.",
+      "en": "They have a house there.",
+      "tip": "Verb second: zij hebben, then the other words.",
+      "newWords": []
+    },
+    {
+      "id": "c106",
+      "nl": "Jullie hebben een mooi huis.",
+      "en": "You (all) have a nice house.",
+      "tip": "Before a het-word, an adjective after een takes no -e: een mooi huis.",
+      "newWords": []
+    },
+    {
+      "id": "c107",
+      "nl": "De man en de vrouw hebben een boot.",
+      "en": "The man and the woman have a boat.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c108",
+      "nl": "Wat hebben jullie?",
+      "en": "What do you (all) have?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c109",
+      "nl": "Wij hebben koffie, maar wij hebben de melk niet.",
+      "en": "We have coffee, but we do not have the milk.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c110",
+      "nl": "Zij eten niet, want zij hebben het brood niet.",
+      "en": "They do not eat, because they do not have the bread.",
+      "tip": "Want keeps main-clause order: subject, then verb.",
+      "newWords": []
+    },
+    {
+      "id": "c111",
+      "nl": "Hebben zij pindakaas?",
+      "en": "Do they have peanut butter?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c112",
+      "nl": "Ja, zij hebben pindakaas.",
+      "en": "Yes, they have peanut butter.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c113",
+      "nl": "Nee, wij hebben de hagelslag niet.",
+      "en": "No, we do not have the chocolate sprinkles.",
+      "tip": "Start the answer with 'nee' and then a normal sentence.",
+      "newWords": []
+    },
+    {
+      "id": "c114",
+      "nl": "Welke auto hebben jullie?",
+      "en": "Which car do you (all) have?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c115",
+      "nl": "Wij hebben wel koffie.",
+      "en": "We do have coffee.",
+      "tip": "Wel stresses that something is true, the opposite of niet.",
+      "newWords": []
+    },
+    {
+      "id": "c116",
+      "nl": "Waar hebben zij een winkel?",
+      "en": "Where do they have a shop?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c117",
+      "nl": "Wij eten wel vlees.",
+      "en": "We do eat meat.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c118",
+      "nl": "Jullie drinken wel wijn.",
+      "en": "You (all) do drink wine.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c119",
+      "nl": "Eten jullie friet met kroket of frikandel?",
+      "en": "Do you (all) eat fries with croquette or frikandel?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c120",
+      "nl": "Daarom drinken wij thee.",
+      "en": "That is why we drink tea.",
+      "tip": "Verb second: after 'daarom' the verb comes before the subject.",
+      "newWords": []
+    },
+    {
+      "id": "c121",
+      "nl": "Wij hebben fruit en groente.",
+      "en": "We have fruit and vegetables.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c122",
+      "nl": "Wij gaan met de trein.",
+      "en": "We go by train.",
+      "tip": "Use \"met\" for transport: met de trein.",
+      "newWords": []
+    },
+    {
+      "id": "c123",
+      "nl": "Zij gaan met de bus.",
+      "en": "They go by bus.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c124",
+      "nl": "Jullie gaan met de tram.",
+      "en": "You (all) go by tram.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c125",
+      "nl": "We gaan met de metro.",
+      "en": "We go by metro.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c126",
+      "nl": "Ze gaan met de fiets.",
+      "en": "They go by bike.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c127",
+      "nl": "Wij gaan met de auto.",
+      "en": "We go by car.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c128",
+      "nl": "Zij gaan met de boot.",
+      "en": "They go by boat.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c129",
+      "nl": "Hoe gaan jullie?",
+      "en": "How are you (all) going?",
+      "tip": "Question word first, then the verb, then the subject.",
+      "newWords": []
+    },
+    {
+      "id": "c130",
+      "nl": "Wij lopen hier.",
+      "en": "We walk here.",
+      "tip": "'lopen' = to walk.",
+      "newWords": []
+    },
+    {
+      "id": "c131",
+      "nl": "Zij lopen daar.",
+      "en": "They walk there.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c132",
+      "nl": "Jullie lopen links.",
+      "en": "You (all) walk left.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c133",
+      "nl": "We lopen rechts.",
+      "en": "We walk right.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c134",
+      "nl": "Waar lopen jullie?",
+      "en": "Where are you (all) walking?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c135",
+      "nl": "De man en de vrouw lopen hier.",
+      "en": "The man and the woman walk here.",
+      "tip": "Two nouns joined by \"en\" take the plural verb.",
+      "newWords": []
+    },
+    {
+      "id": "c136",
+      "nl": "De leraar en de leerling lopen daar.",
+      "en": "The teacher and the pupil walk there.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c137",
+      "nl": "Wij worden oud.",
+      "en": "We are getting old.",
+      "tip": "\"worden\" means \"to become\" or \"to get\".",
+      "newWords": []
+    },
+    {
+      "id": "c138",
+      "nl": "Zij worden blij.",
+      "en": "They are becoming happy.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c139",
+      "nl": "De man en de vrouw worden oud.",
+      "en": "The man and the woman are getting old.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c140",
+      "nl": "Wanneer worden wij oud?",
+      "en": "When do we get old?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c141",
+      "nl": "Waarom worden jullie blij?",
+      "en": "Why are you (all) getting happy?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c142",
+      "nl": "Ze worden blij omdat wij eten.",
+      "en": "They get happy because we eat.",
+      "tip": "After \"omdat\" the verb goes to the end.",
+      "newWords": []
+    },
+    {
+      "id": "c143",
+      "nl": "Wij vragen wat.",
+      "en": "We ask something.",
+      "tip": "'wat' can also mean 'something'.",
+      "newWords": []
+    },
+    {
+      "id": "c144",
+      "nl": "Zij antwoorden ja.",
+      "en": "They answer yes.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c145",
+      "nl": "Jullie antwoorden nee.",
+      "en": "You (all) answer no.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c146",
+      "nl": "Wij vragen de dokter.",
+      "en": "We ask the doctor.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c147",
+      "nl": "Wij vragen het meisje.",
+      "en": "We ask the girl.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c148",
+      "nl": "Hoe antwoorden jullie?",
+      "en": "How do you (all) answer?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c149",
+      "nl": "Waarom vragen zij?",
+      "en": "Why are they asking?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c150",
+      "nl": "Wij antwoorden niet.",
+      "en": "We do not answer.",
+      "tip": "'niet' comes after the verb.",
+      "newWords": []
+    },
+    {
+      "id": "c151",
+      "nl": "Zij vragen wat, maar wij antwoorden niet.",
+      "en": "They ask something, but we do not answer.",
+      "tip": "\"maar\" keeps normal word order.",
+      "newWords": []
+    },
+    {
+      "id": "c152",
+      "nl": "Zij vragen waar wij lopen.",
+      "en": "They ask where we walk.",
+      "tip": "After a question word in a clause, the verb goes to the end.",
+      "newWords": []
+    },
+    {
+      "id": "c153",
+      "nl": "Wij vragen wanneer zij eten.",
+      "en": "We ask when they eat.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c154",
+      "nl": "Wij vragen hoe jullie gaan.",
+      "en": "We ask how you (all) go.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c155",
+      "nl": "Morgen gaan wij eten.",
+      "en": "Tomorrow we are going to eat.",
+      "tip": "\"gaan\" + infinitive is a near future. The verb stays second after \"morgen\".",
+      "newWords": []
+    },
+    {
+      "id": "c156",
+      "nl": "Dan gaan zij drinken.",
+      "en": "Then they are going to drink.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c157",
+      "nl": "Misschien gaan jullie roken.",
+      "en": "Maybe you (all) are going to smoke.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c158",
+      "nl": "Daarom gaan wij lopen.",
+      "en": "That is why we are going to walk.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c159",
+      "nl": "Wij gaan eten.",
+      "en": "We are going to eat.",
+      "tip": "'gaan' + a second verb tells what you will do.",
+      "newWords": []
+    },
+    {
+      "id": "c160",
+      "nl": "Zij gaan roken.",
+      "en": "They are going to smoke.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c161",
+      "nl": "Jullie gaan drinken.",
+      "en": "You (all) are going to drink.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c162",
+      "nl": "Gaan jullie eten of drinken?",
+      "en": "Are you (all) going to eat or drink?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c163",
+      "nl": "Tot morgen!",
+      "en": "See you tomorrow!",
+      "tip": "'tot morgen' = see you tomorrow.",
+      "newWords": []
+    },
+    {
+      "id": "c164",
+      "nl": "Ja, wij gaan eten.",
+      "en": "Yes, we are going to eat.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c165",
+      "nl": "Nee, zij gaan niet roken.",
+      "en": "No, they are not going to smoke.",
+      "tip": "'niet' comes before the second verb: niet roken.",
+      "newWords": []
+    },
+    {
+      "id": "c166",
+      "nl": "Wij gaan wel eten.",
+      "en": "We are going to eat after all.",
+      "tip": "\"wel\" is the opposite of \"niet\".",
+      "newWords": []
+    },
+    {
+      "id": "c167",
+      "nl": "Wat gaan jullie drinken?",
+      "en": "What are you (all) going to drink?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c168",
+      "nl": "Waar gaan wij eten?",
+      "en": "Where are we going to eat?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c169",
+      "nl": "Wanneer gaan zij roken?",
+      "en": "When are they going to smoke?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c170",
+      "nl": "Waarom gaan jullie niet eten?",
+      "en": "Why are you (all) not going to eat?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c171",
+      "nl": "Wie vragen jullie?",
+      "en": "Who are you (all) asking?",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c172",
+      "nl": "Zij drinken thee terwijl wij eten.",
+      "en": "They drink tea while we eat.",
       "tip": "After 'terwijl' the verb goes to the end.",
       "newWords": []
     },
     {
-      "id": "c196",
-      "nl": "Koffie, alsjeblieft.",
-      "en": "Coffee, please.",
+      "id": "c173",
+      "nl": "Wij eten kaas, maar zij eten vlees.",
+      "en": "We eat cheese, but they eat meat.",
       "tip": "",
       "newWords": []
     },
     {
-      "id": "c197",
-      "nl": "Een thee, alstublieft.",
-      "en": "A tea, please.",
-      "tip": "alstublieft is the polite form of alsjeblieft.",
+      "id": "c174",
+      "nl": "Wij lopen wanneer zij met de trein gaan.",
+      "en": "We walk when they go by train.",
+      "tip": "After 'wanneer' in a clause, the verb goes to the end.",
       "newWords": []
     },
     {
-      "id": "c198",
-      "nl": "Water, aub.",
-      "en": "Water, please.",
-      "tip": "a.u.b. is short for alstublieft.",
+      "id": "c175",
+      "nl": "Wij worden blij wanneer zij antwoorden.",
+      "en": "We get happy when they answer.",
+      "tip": "",
       "newWords": []
     },
     {
-      "id": "c199",
-      "nl": "Dank je wel, tot ziens!",
-      "en": "Thank you, see you!",
-      "tip": "dank je wel = thank you. tot ziens = see you.",
+      "id": "c176",
+      "nl": "Zij gaan met de fiets omdat wij lopen.",
+      "en": "They go by bike because we walk.",
+      "tip": "",
       "newWords": []
     },
     {
-      "id": "c200",
-      "nl": "Doei, tot morgen!",
-      "en": "Bye, see you tomorrow!",
+      "id": "c177",
+      "nl": "Jullie gaan met de bus, maar wij gaan met de tram.",
+      "en": "You (all) go by bus, but we go by tram.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c178",
+      "nl": "Misschien lopen zij daar.",
+      "en": "Maybe they walk there.",
+      "tip": "\"misschien\" at the start puts the verb second.",
+      "newWords": []
+    },
+    {
+      "id": "c179",
+      "nl": "Morgen lopen wij links.",
+      "en": "Tomorrow we walk left.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c180",
+      "nl": "Daarom antwoorden wij niet.",
+      "en": "That is why we do not answer.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c181",
+      "nl": "De dokter en de leraar gaan met de auto.",
+      "en": "The doctor and the teacher go by car.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c182",
+      "nl": "De jongen en het meisje worden blij.",
+      "en": "The boy and the girl get happy.",
+      "tip": "",
+      "newWords": []
+    },
+    {
+      "id": "c183",
+      "nl": "Wij vragen of zij gaan eten.",
+      "en": "We ask whether they are going to eat.",
+      "tip": "\"of\" in a clause sends the verb to the end.",
+      "newWords": []
+    },
+    {
+      "id": "c184",
+      "nl": "Waar lopen zij, links of rechts?",
+      "en": "Where are they walking, left or right?",
       "tip": "",
       "newWords": []
     }
